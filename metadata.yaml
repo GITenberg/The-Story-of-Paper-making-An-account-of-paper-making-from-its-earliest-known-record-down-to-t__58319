@@ -1,11 +1,16 @@
 _repo: The-Story-of-Paper-making-An-account-of-paper-making-from-its-earliest-known-record-down-to-t__58319
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58319-h/images/cover.jpg
 creator:
   author:
     agent_name: Butler, Frank O.
     gutenberg_agent_id: '49890'
     url: http://www.gutenberg.org/2009/agents/49890
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58319#The-Story-of-Paper-making-An-account-of-paper-making-from-its-earliest-known-record-down-to-t_
 gutenberg_issued: '2018-11-21'
 gutenberg_type: Text
 identifiers:
